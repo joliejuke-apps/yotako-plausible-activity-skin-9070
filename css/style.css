@@ -1,0 +1,132 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0,
+  .style1,
+  .style2,
+  .style3 {
+    color: #707070;
+    font-family: arial,serif;
+    font-size: 1.125em;
+    margin-left: 124px;
+    margin-top: 106px;
+    height: 22px
+  }
+  .style1,
+  .style2,
+  .style3 {
+    margin-left: 110px;
+    margin-top: 81px
+  }
+  .style2,
+  .style3 {
+    letter-spacing: 2px;
+    margin-left: 98px
+  }
+  .style3 {
+    letter-spacing: 8px;
+    margin-left: 38px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0,
+  .style1,
+  .style2,
+  .style3 {
+    color: #707070;
+    font-family: arial,serif;
+    font-size: 2.3040000000000003em;
+    margin-left: 254px;
+    margin-top: 217px;
+    height: 45px
+  }
+  .style1,
+  .style2,
+  .style3 {
+    margin-left: 225px;
+    margin-top: 166px
+  }
+  .style2,
+  .style3 {
+    letter-spacing: 4px;
+    margin-left: 201px
+  }
+  .style3 {
+    letter-spacing: 16px;
+    margin-left: 78px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0,
+  .style1,
+  .style2,
+  .style3 {
+    color: #707070;
+    font-family: arial,serif;
+    font-size: 2.76em;
+    margin-left: 304px;
+    margin-top: 260px;
+    height: 54px
+  }
+  .style1,
+  .style2,
+  .style3 {
+    margin-left: 270px;
+    margin-top: 199px
+  }
+  .style2,
+  .style3 {
+    letter-spacing: 5px;
+    margin-left: 240px
+  }
+  .style3 {
+    letter-spacing: 20px;
+    margin-left: 93px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0,
+  .style1,
+  .style2,
+  .style3 {
+    color: #707070;
+    font-family: arial,serif;
+    font-size: 3.6em;
+    margin-left: 397px;
+    margin-top: 339px;
+    height: 70px
+  }
+  .style1,
+  .style2,
+  .style3 {
+    margin-left: 352px;
+    margin-top: 259px
+  }
+  .style2,
+  .style3 {
+    letter-spacing: 6px;
+    margin-left: 314px
+  }
+  .style3 {
+    letter-spacing: 26px;
+    margin-left: 122px
+  }
+}
